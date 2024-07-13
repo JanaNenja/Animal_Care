@@ -1,0 +1,11 @@
+cat,Dry food 1.5kg from Neutram brand,35,1
+cat,Cat biscuit mint flavor 40kg from Gim cat brand,15,40
+cat,Powder dry milk 30g from gim cat brand,30,10
+cat,Dry shampoo for hater water cat 25ml from croci brand,30,26
+Birds,Food for Parrots 700G from Zolux brand ,16,12
+Birds,Food for Canary 800G from Zolux brand,20,7
+Dog,Food for Puppy 4kg from Royal canin brand,100,8
+fish,Flake-mix for fish 15g from Vitakraft brand,12,20
+fish,Snack for fish 100ml from Vitakraft brand,14,20
+
+

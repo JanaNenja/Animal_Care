@@ -1,0 +1,31 @@
+-----------------USER INFO-----------------
+First Name:
+noor
+Last Name:
+Al Ghalib Al Sharif
+ID:
+1725009
+Birth Date:
+09 / 09 / 1998
+Phone Number:
+509025888
+Email:
+noorhg13@gmail.com
+
+---------------CARD INFO-----------------
+Card Number:
+1234 1234 1234 1234
+cvv:
+444
+Exp. Data:
+11 / 2021
+Zip Code:
+12345
+Billing Address:
+Ar Rawdah
+
+----------------LOGIN INFO-----------------
+Username
+noor
+Password
+MBf0bN
